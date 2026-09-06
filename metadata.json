@@ -1,0 +1,8 @@
+{
+  "name": "UniShield AI",
+  "description": "Tactical cybersecurity operations center with real-time threat detection, packet inspection, and incident mitigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
